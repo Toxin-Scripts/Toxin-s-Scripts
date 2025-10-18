@@ -3,7 +3,6 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: rgb(0,255,42);
 }
 
 .Start_Title {
@@ -12,4 +11,84 @@ body {
     text-align: center;
     margin-top: 50px;
 }
+.code_sub {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.python_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.C#_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.GM_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.CSS_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.HTML_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.javascript_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.javascript_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.Game_labels {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.Roblox_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.Unity_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+.Godot_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.Gamemaker_label {
+    color: rgb(0, 255, 42);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+}
+
 
